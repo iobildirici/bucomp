@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/compre/" >
+        <file>bina.png</file>
+    </qresource>
+</RCC>
